@@ -1,5 +1,3 @@
-from math import log2
-
 def Dec_to_bin (number):
     txt_bin = ''
     while number > 0:
